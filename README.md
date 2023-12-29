@@ -1,10 +1,9 @@
-# graphql-service
-This is graphql API was created with the educational proposal.
-Feel free to use it as the base of your study.
+# graphQL-service
+This GraphQL API was created for educational purposes. Feel free to use it as the foundation for your studies.
 
 ## stack
-For this project was used nodejs (19.9.0), Express and Apollo Server.
-So, before run the project check that you have the correct version of node installed.
+This project used node js (19.9.0), Express, and Apollo Server.
+So, before running the project check that you have the correct version of node installed.
 
 ## to run:
 ```sh
