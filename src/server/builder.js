@@ -112,7 +112,6 @@ class BuilderServer {
         wsServer
       );
 
-      console.log("test123",serverCleanup)
       this.serverStart = {
         ...this.serverStart,
         async serverWillStart() {
